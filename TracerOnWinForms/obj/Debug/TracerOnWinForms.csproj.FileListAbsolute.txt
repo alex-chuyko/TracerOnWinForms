@@ -1,0 +1,9 @@
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\SPP\Lab2\TracerOnWinForms\TracerOnWinForms\bin\Debug\TracerOnWinForms.exe.config
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\SPP\Lab2\TracerOnWinForms\TracerOnWinForms\obj\Debug\TracerOnWinForms.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\SPP\Lab2\TracerOnWinForms\TracerOnWinForms\obj\Debug\TracerOnWinForms.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\SPP\Lab2\TracerOnWinForms\TracerOnWinForms\obj\Debug\TracerOnWinForms.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\SPP\Lab2\TracerOnWinForms\TracerOnWinForms\bin\Debug\TracerOnWinForms.exe
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\SPP\Lab2\TracerOnWinForms\TracerOnWinForms\bin\Debug\TracerOnWinForms.pdb
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\SPP\Lab2\TracerOnWinForms\TracerOnWinForms\obj\Debug\TracerOnWinForms.exe
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\SPP\Lab2\TracerOnWinForms\TracerOnWinForms\obj\Debug\TracerOnWinForms.pdb
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\SPP\Lab2\TracerOnWinForms\TracerOnWinForms\obj\Debug\TracerOnWinForms.Form1.resources

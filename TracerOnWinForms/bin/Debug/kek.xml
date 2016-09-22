@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <thread id="5" time="13">
+    <method name="Main" time="13" package="Program" paramsCount="1">
+      <method name="myMethod" time="3" package="Program" paramsCount="0" />
+    </method>
+  </thread>
+  <thread id="10" time="13">
+    <method name="myMethod2" time="13" package="Program" paramsCount="0" />
+  </thread>
+  <thread id="11" time="21">
+    <method name="testMethod" time="21" package="TestClass" paramsCount="0">
+      <method name="oneMethod" time="16" package="TestClass" paramsCount="0" />
+      <method name="oneMethod" time="5" package="TestClass" paramsCount="13" />
+    </method>
+  </thread>
+</root>
